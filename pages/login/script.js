@@ -10,8 +10,8 @@ const user1 = {
 };
 
 const user2 = {
-    email: "lego",
-    password: "4321",
+    email: "user",
+    password: "user",
     cargo: "Client"
 };
 
