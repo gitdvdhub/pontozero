@@ -60,6 +60,13 @@ body {
     margin-bottom: 220px;
     color: white;
     background-color: rgba(0, 0, 0, 0.24);
+    transition: transform .7s ease;
+
+}
+
+.banner h1:hover {
+    transform: scale(1.2);
+
 }
 
 .box-comum {
